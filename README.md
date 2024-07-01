@@ -239,6 +239,8 @@ After training and evaluating the lung cancer prediction model, the following re
 
 - Final training accuracy: `history.history['accuracy'][-1]`
 - Final validation accuracy: `history.history['val_accuracy'][-1]`
+- Model accuracy: 93%
+
 
 ### Example Predictions
 
