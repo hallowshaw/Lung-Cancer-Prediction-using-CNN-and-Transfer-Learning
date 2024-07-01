@@ -79,6 +79,7 @@ pip install pandas numpy seaborn matplotlib scikit-learn tensorflow keras
 
 ## Project Structure
 
+```
 .
 ├── Lung_Cancer_Prediction.ipynb
 ├── README.md
@@ -99,7 +100,7 @@ pip install pandas numpy seaborn matplotlib scikit-learn tensorflow keras
 │ ├── normal
 │ └── squamous.cell.carcinoma_left.hilum_T1_N2_M0_IIIa
 └── best_model.hdf5
-
+```
 
 This structure outlines the files and directories included in your project:
 
